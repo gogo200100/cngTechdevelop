@@ -429,17 +429,17 @@ export default function SubPage21() {
             <li className="lg:block hidden">
               <h5>About</h5>
               <ol className="flex flex-col gap-6 text-xl font-medium pt-6  text-text2">
-                <li>
-                  <a href="">Home</a>
+              <li>
+                  <a href="/main">Home</a>
                 </li>
                 <li>
-                  <a href="">기업소개</a>
+                  <a href="/Sub1">기업소개</a>
                 </li>
                 <li>
-                  <a href="">제품소개</a>
+                  <a href="/Sub2">제품소개</a>
                 </li>
                 <li>
-                  <a href="">견적문의</a>
+                  <a href="/Sub3">견적문의</a>
                 </li>
               </ol>
             </li>
